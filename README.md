@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/runefortress/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/runemaru-dev/)
 
-![Runemaru Devs GitHub stats](https://github-readme-stats.vercel.app/api?username=Runemaru&show_icons=true&theme=cobalt)
-
 ## Bancos de dados que utilizo:
 <div style ="display: inline_block"><br/>
 <img align="center" alt="Icone da Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -22,10 +20,5 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%634444.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-	
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runemaru&layout=compact)
-
 
 <hr>
