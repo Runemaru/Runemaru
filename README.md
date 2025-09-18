@@ -1,5 +1,5 @@
-# Olá! Me chamo Runemaru Rodrigues! 🐉
-<p> Bem-vindo ao meu Github. Sou um cientista de dados em formação, e aqui no meu Github você poderá ver algumas atualizações minhas referentes a área de análise de dados.</p>
+# Olá! Me chamo Runemaru Rodrigues! Mas pode me chamar de Rune, pronuncia-se Ru + ni.
+<p>Atualmente sou graduando em Ciência de Dados, e atuo na área como analista de Data Science.</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Runemaru/Runemaru)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/runefortress/)
